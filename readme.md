@@ -1,4 +1,4 @@
-# Semantic Kernel - MOCKGPT
+# Azure Function - MOCKGPT
 
 The `MOCKGPT` is an azure function to simulate a GPT API, Using Azure OpenAI
 
